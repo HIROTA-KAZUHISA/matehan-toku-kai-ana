@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="310" font-family="Meiryo,Yu Gothic,sans-serif">
+<rect width="580" height="310" fill="#fcfcfb"/>
+<text x="290" y="16" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">機種別 誤記件数（上位12）</text>
+<line x1="110.0" y1="24" x2="110.0" y2="286" stroke="#e0e0dc" stroke-width="1.5"/>
+<text x="110.0" y="299" text-anchor="middle" font-size="9" fill="#888888">0</text>
+<line x1="185.0" y1="24" x2="185.0" y2="286" stroke="#e0e0dc" stroke-width="0.6"/>
+<text x="185.0" y="299" text-anchor="middle" font-size="9" fill="#888888">5</text>
+<line x1="260.0" y1="24" x2="260.0" y2="286" stroke="#e0e0dc" stroke-width="0.6"/>
+<text x="260.0" y="299" text-anchor="middle" font-size="9" fill="#888888">10</text>
+<line x1="335.0" y1="24" x2="335.0" y2="286" stroke="#e0e0dc" stroke-width="0.6"/>
+<text x="335.0" y="299" text-anchor="middle" font-size="9" fill="#888888">15</text>
+<line x1="410.0" y1="24" x2="410.0" y2="286" stroke="#e0e0dc" stroke-width="0.6"/>
+<text x="410.0" y="299" text-anchor="middle" font-size="9" fill="#888888">20</text>
+<line x1="485.0" y1="24" x2="485.0" y2="286" stroke="#e0e0dc" stroke-width="0.6"/>
+<text x="485.0" y="299" text-anchor="middle" font-size="9" fill="#888888">25</text>
+<rect x="110" y="27.9" width="375.0" height="14.0" fill="#2a78d6" rx="2"/>
+<text x="105" y="38.9" text-anchor="end" font-size="10.5" fill="#333333">ST50</text>
+<text x="489.0" y="38.9" font-size="10" fill="#333333">25</text>
+<rect x="110" y="49.8" width="270.0" height="14.0" fill="#2a78d6" rx="2"/>
+<text x="105" y="60.7" text-anchor="end" font-size="10.5" fill="#333333">ST38</text>
+<text x="384.0" y="60.7" font-size="10" fill="#333333">18</text>
+<rect x="110" y="71.6" width="240.0" height="14.0" fill="#2a78d6" rx="2"/>
+<text x="105" y="82.6" text-anchor="end" font-size="10.5" fill="#333333">ST100</text>
+<text x="354.0" y="82.6" font-size="10" fill="#333333">16</text>
+<rect x="110" y="93.4" width="240.0" height="14.0" fill="#2a78d6" rx="2"/>
+<text x="105" y="104.4" text-anchor="end" font-size="10.5" fill="#333333">ST25</text>
+<text x="354.0" y="104.4" font-size="10" fill="#333333">16</text>
+<rect x="110" y="115.3" width="165.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="126.2" text-anchor="end" font-size="10.5" fill="#333333">BMA20</text>
+<text x="279.0" y="126.2" font-size="10" fill="#333333">11</text>
+<rect x="110" y="137.1" width="165.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="148.1" text-anchor="end" font-size="10.5" fill="#333333">ST38E-HL</text>
+<text x="279.0" y="148.1" font-size="10" fill="#333333">11</text>
+<rect x="110" y="158.9" width="135.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="169.9" text-anchor="end" font-size="10.5" fill="#333333">ST50A</text>
+<text x="249.0" y="169.9" font-size="10" fill="#333333">9</text>
+<rect x="110" y="180.8" width="105.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="191.8" text-anchor="end" font-size="10.5" fill="#333333">STW38E</text>
+<text x="219.0" y="191.8" font-size="10" fill="#333333">7</text>
+<rect x="110" y="202.6" width="105.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="213.6" text-anchor="end" font-size="10.5" fill="#333333">BMS15M-L-HL</text>
+<text x="219.0" y="213.6" font-size="10" fill="#333333">7</text>
+<rect x="110" y="224.4" width="105.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="235.4" text-anchor="end" font-size="10.5" fill="#333333">ST50E-HL</text>
+<text x="219.0" y="235.4" font-size="10" fill="#333333">7</text>
+<rect x="110" y="246.3" width="90.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="257.2" text-anchor="end" font-size="10.5" fill="#333333">ST65</text>
+<text x="204.0" y="257.2" font-size="10" fill="#333333">6</text>
+<rect x="110" y="268.1" width="90.0" height="14.0" fill="#86b6ef" rx="2"/>
+<text x="105" y="279.1" text-anchor="end" font-size="10.5" fill="#333333">SFL10</text>
+<text x="204.0" y="279.1" font-size="10" fill="#333333">6</text>
+</svg>
