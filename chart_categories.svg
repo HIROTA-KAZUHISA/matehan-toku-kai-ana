@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" font-family="Meiryo,Yu Gothic,sans-serif">
+<rect width="680" height="480" fill="#FAFAFA"/>
+<text x="340" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#333">検図連絡票 カテゴリ分布（全489件）</text>
+<path d="M 200.00,60.00 A 160,160 0 1,1 43.69,254.17 L 121.85,237.09 A 80,80 0 1,0 200.00,140.00 Z" fill="#E74C3C" stroke="white" stroke-width="2"/>
+<text x="297.4" y="298.4" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="white">71.6%</text>
+<path d="M 43.69,254.17 A 160,160 0 0,1 117.78,82.74 L 158.89,151.37 A 80,80 0 0,0 121.85,237.09 Z" fill="#F39C12" stroke="white" stroke-width="2"/>
+<text x="85.3" y="170.4" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="white">19.8%</text>
+<path d="M 117.78,82.74 A 160,160 0 0,1 197.94,60.01 L 198.97,140.01 A 80,80 0 0,0 158.89,151.37 Z" fill="#E07020" stroke="white" stroke-width="2"/>
+<text x="165.9" y="99.7" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="white">8.4%</text>
+<path d="M 197.94,60.01 A 160,160 0 0,1 200.00,60.00 L 200.00,140.00 A 80,80 0 0,0 198.97,140.01 Z" fill="#95A5A6" stroke="white" stroke-width="2"/>
+<text x="200" y="210" text-anchor="middle" font-size="13" fill="#555">全体</text>
+<text x="200" y="236" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">489件</text>
+<rect x="420" y="100" width="20" height="20" fill="#E74C3C" rx="3"/>
+<text x="448" y="113" font-size="14" fill="#333">誤記</text>
+<text x="448" y="130" font-size="12" fill="#666">350件 (71.6%)</text>
+<rect x="420" y="155" width="20" height="20" fill="#F39C12" rx="3"/>
+<text x="448" y="168" font-size="14" fill="#333">仕様変更依頼</text>
+<text x="448" y="185" font-size="12" fill="#666">97件 (19.8%)</text>
+<rect x="420" y="210" width="20" height="20" fill="#E07020" rx="3"/>
+<text x="448" y="223" font-size="14" fill="#333">誤記（記載漏れ含む）</text>
+<text x="448" y="240" font-size="12" fill="#666">41件 (8.4%)</text>
+<rect x="420" y="265" width="20" height="20" fill="#95A5A6" rx="3"/>
+<text x="448" y="278" font-size="14" fill="#333">その他</text>
+<text x="448" y="295" font-size="12" fill="#666">1件 (0.2%)</text>
+<text x="340" y="455" text-anchor="middle" font-size="12" fill="#999">誤記系合計（誤記＋記載漏れ含む）: 391件 (79.9%)</text>
+</svg>
