@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="480" font-family="sans-serif">
+<rect width="700" height="480" fill="#FAFAFA"/>
+<text x="350" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#333">依頼者別件数（上位）</text>
+<rect x="110" y="60" width="470" height="38" fill="#E74C3C" rx="4"/>
+<text x="102" y="84" text-anchor="end" font-size="14" fill="#333">柘植</text>
+<text x="588" y="84" font-size="14" fill="#555">215件 (44.0%)</text>
+<rect x="110" y="106" width="279" height="38" fill="#95A5A6" rx="4"/>
+<text x="102" y="130" text-anchor="end" font-size="14" fill="#333">不明</text>
+<text x="397" y="130" font-size="14" fill="#555">128件 (26.2%)</text>
+<rect x="110" y="152" width="128" height="38" fill="#3498DB" rx="4"/>
+<text x="102" y="176" text-anchor="end" font-size="14" fill="#333">加藤</text>
+<text x="246" y="176" font-size="14" fill="#555">59件 (12.1%)</text>
+<rect x="110" y="198" width="94" height="38" fill="#2ECC71" rx="4"/>
+<text x="102" y="222" text-anchor="end" font-size="14" fill="#333">松谷</text>
+<text x="212" y="222" font-size="14" fill="#555">43件 (8.8%)</text>
+<rect x="110" y="244" width="32" height="38" fill="#F39C12" rx="4"/>
+<text x="102" y="268" text-anchor="end" font-size="14" fill="#333">藤井</text>
+<text x="150" y="268" font-size="14" fill="#555">15件 (3.1%)</text>
+<rect x="110" y="290" width="32" height="38" fill="#BDC3C7" rx="4"/>
+<text x="102" y="314" text-anchor="end" font-size="14" fill="#333">なし</text>
+<text x="150" y="314" font-size="14" fill="#555">15件 (3.1%)</text>
+<rect x="110" y="336" width="10" height="38" fill="#9B59B6" rx="4"/>
+<text x="102" y="360" text-anchor="end" font-size="14" fill="#333">横田</text>
+<text x="128" y="360" font-size="14" fill="#555">5件 (1.0%)</text>
+<rect x="110" y="382" width="6" height="38" fill="#1ABC9C" rx="4"/>
+<text x="102" y="406" text-anchor="end" font-size="14" fill="#333">山本</text>
+<text x="124" y="406" font-size="14" fill="#555">3件 (0.6%)</text>
+<rect x="110" y="428" width="6" height="38" fill="#E67E22" rx="4"/>
+<text x="102" y="452" text-anchor="end" font-size="14" fill="#333">神谷</text>
+<text x="124" y="452" font-size="14" fill="#555">3件 (0.6%)</text>
+</svg>

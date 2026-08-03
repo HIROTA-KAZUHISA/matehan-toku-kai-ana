@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="480" font-family="sans-serif">
+<rect width="700" height="480" fill="#FAFAFA"/>
+<text x="350" y="30" text-anchor="middle" font-size="17" font-weight="bold" fill="#333">担当者別件数（上位）</text>
+<rect x="110" y="60" width="470" height="38" fill="#2980B9" rx="4"/>
+<text x="102" y="84" text-anchor="end" font-size="14" fill="#333">若宮</text>
+<text x="588" y="84" font-size="14" fill="#555">140件 (28.6%)</text>
+<rect x="110" y="106" width="389" height="38" fill="#27AE60" rx="4"/>
+<text x="102" y="130" text-anchor="end" font-size="14" fill="#333">前川</text>
+<text x="507" y="130" font-size="14" fill="#555">116件 (23.7%)</text>
+<rect x="110" y="152" width="315" height="38" fill="#E74C3C" rx="4"/>
+<text x="102" y="176" text-anchor="end" font-size="14" fill="#333">滝本</text>
+<text x="433" y="176" font-size="14" fill="#555">94件 (19.2%)</text>
+<rect x="110" y="198" width="214" height="38" fill="#8E44AD" rx="4"/>
+<text x="102" y="222" text-anchor="end" font-size="14" fill="#333">岡部</text>
+<text x="332" y="222" font-size="14" fill="#555">64件 (13.1%)</text>
+<rect x="110" y="244" width="90" height="38" fill="#F39C12" rx="4"/>
+<text x="102" y="268" text-anchor="end" font-size="14" fill="#333">中川</text>
+<text x="208" y="268" font-size="14" fill="#555">27件 (5.5%)</text>
+<rect x="110" y="290" width="63" height="38" fill="#16A085" rx="4"/>
+<text x="102" y="314" text-anchor="end" font-size="14" fill="#333">笠原</text>
+<text x="181" y="314" font-size="14" fill="#555">19件 (3.9%)</text>
+<rect x="110" y="336" width="36" height="38" fill="#D35400" rx="4"/>
+<text x="102" y="360" text-anchor="end" font-size="14" fill="#333">奥村</text>
+<text x="154" y="360" font-size="14" fill="#555">11件 (2.2%)</text>
+<rect x="110" y="382" width="20" height="38" fill="#95A5A6" rx="4"/>
+<text x="102" y="406" text-anchor="end" font-size="14" fill="#333">不明</text>
+<text x="138" y="406" font-size="14" fill="#555">6件 (1.2%)</text>
+<rect x="110" y="428" width="13" height="38" fill="#2C3E50" rx="4"/>
+<text x="102" y="452" text-anchor="end" font-size="14" fill="#333">横山</text>
+<text x="131" y="452" font-size="14" fill="#555">4件 (0.8%)</text>
+</svg>
