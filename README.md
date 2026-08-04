@@ -19,8 +19,6 @@
 ### 分析レポート 7/31(FRI)
 https://claude.ai/code/artifact/4328829b-b60a-4897-a2c9-7effd19958f9?open_in_browser=1&via=user_open&org=90b0de86-f194-4327-8c72-771e33e7dda0
 
-### 分析レポート 8/1(MON) 特注・改造の仕分け＿依頼者の傾向把握＿機種の傾向把握を追加
-https://claude.ai/code/artifact/5a1c47f6-fd41-4c5a-b908-2d1f332569e6?open_in_browser=1&via=user_open&org=90b0de86-f194-4327-8c72-771e33e7dda0
 
 ---
 ## カテゴリ分布
