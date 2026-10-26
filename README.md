@@ -343,7 +343,7 @@ https://claude.ai/code/artifact/4328829b-b60a-4897-a2c9-7effd19958f9?open_in_bro
 
 ### 全件データ
 
-- [result.tsv](OneDrive/デスクトップ/ocr/nisshi_analysis/result.tsv) — 全489件の分析結果
+- [result.tsv](nisshi_analysis/result.tsv) — 全489件の分析結果
 
 ---
 *解析: Claude Vision OCR + PaddleOCR (Python 3.12)　生成日: 2026年08月03日*
